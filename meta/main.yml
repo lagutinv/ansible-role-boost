@@ -1,10 +1,10 @@
 # file: ansible-role-boost/meta/main.yml
 
 galaxy_info:
-  author: ros
-  company: ros
+  author: vl
+  company: vl
   description: Install boost
-  min_ansible_version: 3.4.0
+  min_ansible_version: 2.0.0
   license: MIT
   platforms:
   - name: Ubuntu
